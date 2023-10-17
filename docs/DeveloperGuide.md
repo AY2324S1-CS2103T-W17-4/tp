@@ -4,13 +4,12 @@ title: Developer Guide
 ---
 
 # Table of Contents
-1. [Acknowledgements](Acknowledgements)
-2. [Setting up, getting started](#Setting up,getting started)
-3. [Design](#Design)
-4. [Implementation](#Implementation)
-5. [Documentation, logging, testing, configuration, dev-ops](#Documentation,logging,testing,configuration,dev-ops)
-6. [Appendix: Requirements](#Appendix:Requirements)
-7. [Appendix: Instructions for manual testing](#Appendix:Instructions for manual testing)
+1. [Acknowledgements](#acknowledgements)
+2. [Setting up, getting started](#setting-up-getting-started)
+3. [Design](#design)
+4. [Documentation, logging, testing, configuration, dev-ops](#Documentation,logging,testing,configuration,dev-ops)
+5. [Appendix: Requirements](#appendix-requirements)
+6. [Appendix: Instructions for manual testing](#appendix-instructions-for-manual-testing)
 
 --------------------------------------------------------------------------------------------------------------------
 
