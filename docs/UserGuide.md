@@ -108,8 +108,8 @@ Examples:
 ```
 1. edit 1 q/ What is the colour of the sun?
    (changes the question at index 1 to “What is the colour of the sun?”)
-   
-2. edit 1 a/ Red 
+
+2. edit 1 a/ Red
    (changes the answer at index 1 to “Red”)
 ```
 #### Expected output:
