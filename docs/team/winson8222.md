@@ -65,7 +65,7 @@ Given below are my contributions to the project.
 
 * **Documentation**:
   * User Guide:
-    * Added documentations and screenshots features `practise`, `solve` and `set`. [#111](https://github.com/AY2324S1-CS2103T-W17-4/tp/pull/111)
+    * Added documentations and screenshots for the features `practise`, `solve` and `set` . [#111](https://github.com/AY2324S1-CS2103T-W17-4/tp/pull/111)
     * Added documentations for MarkDown Syntax feature. (Pull requests [#122](https://github.com/AY2324S1-CS2103T-W17-4/tp/pull/122), [#126](https://github.com/AY2324S1-CS2103T-W17-4/tp/pull/126/files),
     [#189](https://github.com/AY2324S1-CS2103T-W17-4/tp/pull/189))
     * Added labelled screenshots to describe the outcome of MarkDown syntaxes [#126](https://github.com/AY2324S1-CS2103T-W17-4/tp/pull/126/files)
@@ -75,7 +75,7 @@ Given below are my contributions to the project.
     `solve` and `set` and how they synergise with Spaced-Repetition. [#112](https://github.com/AY2324S1-CS2103T-W17-4/tp/pull/112)
     * Added extensions to use cases, to describe the cases when invalid parameters or incorrect command format is entered by the users. [#131](https://github.com/AY2324S1-CS2103T-W17-4/tp/pull/131)
     * Added Planed Enhancement to support Markdown Syntax stacking [#225](https://github.com/AY2324S1-CS2103T-W17-4/tp/pull/225)
-  * README:
+  *  README:
     * Removed trace of ab3 and revamped README file for lesSON. [#50](https://github.com/AY2324S1-CS2103T-W17-4/tp/pull/50)
 
 
@@ -85,7 +85,7 @@ Given below are my contributions to the project.
     * Modifications of error messages [#74](https://github.com/AY2324S1-CS2103T-W17-4/tp/pull/74)
     * Adding NextPractiseDate and give advice to improve the feature further [#93](https://github.com/AY2324S1-CS2103T-W17-4/tp/pull/93)
     * Filtering function based on tag and question [#93](https://github.com/AY2324S1-CS2103T-W17-4/tp/pull/93)
-  * Wrote further test cases of code implemented by other team members.
+  * Wrote further test cases of code implemented by other team member
   * Reported bugs and provide suggestions for other teams (Issues: [1](https://github.com/winson8222/ped/issues/1), [2](https://github.com/winson8222/ped/issues/2), [3](https://github.com/winson8222/ped/issues/3),[4](https://github.com/winson8222/ped/issues/4))
 
 
